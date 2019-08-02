@@ -6,7 +6,7 @@ import(
 )
 
 func main() {
-	vowelAndConsonant(strings.ToLower("AIUEOBJK"))
+	vowelAndConsonant(strings.ToLower("omama"))
 }
 
 func vowelAndConsonant(w string) {
